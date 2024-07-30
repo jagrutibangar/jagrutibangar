@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagrutibangar
-- 🌱 I’m currently learning basic to mid level DSA and java
+- 🌱 I’m currently learning basic to mid level DSA
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am consistent hahaha
 
