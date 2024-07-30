@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jagrutibangar
 - 🌱 I’m currently learning basic to mid level DSA
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am consistent hahaha
+- ⚡ Fun fact: I am consistent, hahaha.
 
 <!---
 jagrutibangar/jagrutibangar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
