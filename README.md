@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jagrutibangar
-- 🌱 I’m currently learning basic to mid level DSA
+- Cloud Enthusiast!
+- 🌱 I’m currently learning DSA
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am consistent, hahaha.
 
